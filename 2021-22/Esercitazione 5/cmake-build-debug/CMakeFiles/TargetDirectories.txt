@@ -1,0 +1,4 @@
+/home/alessandro/CLionProjects/esercitazione_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alessandro/CLionProjects/esercitazione_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alessandro/CLionProjects/esercitazione_5/cmake-build-debug/CMakeFiles/recursive.dir
+/home/alessandro/CLionProjects/esercitazione_5/cmake-build-debug/CMakeFiles/procedural.dir

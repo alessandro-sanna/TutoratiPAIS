@@ -1,0 +1,3 @@
+D:/Onedrive/alessandro.sanna24@outlook.com/OneDrive/Documents/Codice/clion_projects/esercitazione_6/cmake-build-debug/CMakeFiles/esercitazione_6.dir
+D:/Onedrive/alessandro.sanna24@outlook.com/OneDrive/Documents/Codice/clion_projects/esercitazione_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Onedrive/alessandro.sanna24@outlook.com/OneDrive/Documents/Codice/clion_projects/esercitazione_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

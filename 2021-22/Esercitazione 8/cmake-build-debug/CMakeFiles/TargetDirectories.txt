@@ -1,0 +1,6 @@
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/esercizio_1.dir
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/esercizio_2.dir
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/esercizio_1-OPZ.dir
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/esercizio_3.dir
+D:/Documents/Codice/clion_projects/e8/cmake-build-debug/CMakeFiles/edit_cache.dir
