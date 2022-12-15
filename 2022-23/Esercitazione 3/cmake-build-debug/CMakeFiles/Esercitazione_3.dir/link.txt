@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/Esercitazione_3.dir/main.c.o -o Esercitazione_3 

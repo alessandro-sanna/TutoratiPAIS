@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/es2.dir/es2/main.c.o CMakeFiles/es2.dir/es2/characters.c.o CMakeFiles/es2.dir/es2/risky.c.o CMakeFiles/es2.dir/es2/careful.c.o CMakeFiles/es2.dir/es2/utility.c.o -o es2 

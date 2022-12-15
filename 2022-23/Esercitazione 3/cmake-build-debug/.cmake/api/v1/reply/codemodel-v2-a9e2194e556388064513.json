@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Esercitazione_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Esercitazione_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Esercitazione_31-Debug-b2f3aa6e4fb98c2e7f4e.json",
+					"name" : "Esercitazione_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Esercitazione_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Esercitazione_33-Debug-5449389360ee36ff5f99.json",
+					"name" : "Esercitazione_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "es2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-es2-Debug-df5dc0bbe71417b4e50b.json",
+					"name" : "es2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alessandro/Development/PAIS-GIT/2022-23/Esercitazione 3/cmake-build-debug",
+		"source" : "/home/alessandro/Development/PAIS-GIT/2022-23/Esercitazione 3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

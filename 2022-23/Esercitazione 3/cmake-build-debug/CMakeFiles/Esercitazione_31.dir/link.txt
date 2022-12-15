@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/Esercitazione_31.dir/e1/main.c.o CMakeFiles/Esercitazione_31.dir/e1/strats/__get.c.o CMakeFiles/Esercitazione_31.dir/e1/strats/flower.c.o CMakeFiles/Esercitazione_31.dir/e1/strats/genus.c.o CMakeFiles/Esercitazione_31.dir/e1/strats/species.c.o CMakeFiles/Esercitazione_31.dir/e1/record.c.o CMakeFiles/Esercitazione_31.dir/e1/list.c.o -o Esercitazione_31 
