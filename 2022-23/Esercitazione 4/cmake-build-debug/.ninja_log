@@ -1,0 +1,7 @@
+# ninja log v5
+1	52	6921047886437732	CMakeFiles/untitled2.dir/main.c.obj	b6bddc94f28feb6f
+52	107	6921047886958764	untitled2.exe	3a07749ab4169a7a
+4	58	6921025020144141	CMakeFiles/es4.dir/procedural.c.obj	cb79c05cc0dcddde
+0	58	6921025020133595	CMakeFiles/es4.dir/main.c.obj	77d3670ccd6d1183
+6	59	6921025020159969	CMakeFiles/es4.dir/recursive.c.obj	74a3f6fe5c0b9d5f
+59	228	6921025021819088	es4.exe	a8da9d81da47c15c

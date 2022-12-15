@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/es4.dir/main.c.o CMakeFiles/es4.dir/procedural.c.o CMakeFiles/es4.dir/recursive.c.o -o es4 

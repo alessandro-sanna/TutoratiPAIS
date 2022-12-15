@@ -1,0 +1,3 @@
+/home/alessandro/Development/PAIS-GIT/2022-23/Esercitazione 4/cmake-build-debug/CMakeFiles/es4.dir
+/home/alessandro/Development/PAIS-GIT/2022-23/Esercitazione 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alessandro/Development/PAIS-GIT/2022-23/Esercitazione 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
