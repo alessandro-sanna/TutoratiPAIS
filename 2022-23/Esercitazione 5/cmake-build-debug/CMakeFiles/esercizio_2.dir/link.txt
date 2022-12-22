@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/esercizio_2.dir/esercizio_2/main.c.o CMakeFiles/esercizio_2.dir/esercizio_2/sort.c.o -o esercizio_2 
