@@ -13,11 +13,10 @@ void careful_play(p_character my_c, int iDeclared) {
     } while (choice != 'y' && choice != 'n');
 
     if (choice == 'y') {
-        if (result <= 4) {
-            update_score(my_c, +iDeclared);
-        } else {
-            update_score(my_c, -iDeclared);
-        }
+        if (result > 4) {
+            iDeclared *= -1;
+		}
+        update_score(my_c, iDeclared);
     }
 
 
